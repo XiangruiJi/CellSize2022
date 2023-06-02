@@ -1,2 +1,2 @@
 # CellSize2022
-Codes for the manuscript "Modeling cell size control using differential scaling of cell-cycle regulators with cell size"
+Codes for the manuscript "Implications of differential size-scaling of cell-cycle regulators on cell size homeostasis"
